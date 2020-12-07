@@ -1,0 +1,22 @@
+{
+  "name": "mongo-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annedaeunlee/dbMongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annedaeunlee/dbMongo/issues"
+  },
+  "homepage": "https://github.com/annedaeunlee/dbMongo#readme",
+  "dependencies": {
+    "mongoose": "^5.11.4"
+  }
+}
